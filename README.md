@@ -1,1 +1,5 @@
-Hello World
+- Hey I AM Sobuz Khan
+- I am a junior react developer
+- I am using javascript, mongoDb, NodeJS
+- My experience with 8 months
+- 
