@@ -11,11 +11,11 @@
 
 <br/>
 
-✋-Hi there
-🌲-I AM Sobuz Khan 
-🫵- I am a junior react developer
-🫰- I am using javascript, mongoDb, NodeJS, react, expressJS
-❗- My experience with 1 year
+### ✋-Hi there
+### 🌲-I AM Sobuz Khan 
+### 🫵- I am a junior react developer
+### 🫰- I am using javascript, mongoDb, NodeJS, react, expressJS
+###❗- My experience with 1 year
 
 <br/>
 
